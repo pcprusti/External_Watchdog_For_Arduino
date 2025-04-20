@@ -1,2 +1,2 @@
-# 555_Timer_External_Watchdog_Arduino
-555 Timer is used as external watchdog timer for Arduino.
+# External Hardware Watchdog Timer For Arduino.
+Here 555 Timer IC is used as external hardware watchdog timer for Arduino.
